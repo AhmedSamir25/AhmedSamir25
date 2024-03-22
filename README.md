@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Samir</h1>
 <h3 align="center">flutter develpor</h3>
 
-- 👨‍💻 All of my projects are available at [www.ahmedsamir.com](www.ahmedsamir.com)
-
-- 📝 I regularly write articles on [www.youtube.com](www.youtube.com)
-
 - 💬 Ask me about **flutter**
 
 - 📫 How to reach me **a.hmedsamir@hotmail.com**
