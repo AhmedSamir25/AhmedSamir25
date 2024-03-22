@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **a.hmedsamir@hotmail.com**
 
-- 📄 Know about my experiences [www.ahmedsamir.com](www.ahmedsamir.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
