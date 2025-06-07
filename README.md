@@ -1,1 +1,17 @@
-
+<h1>Hi</h1>
+<p>- 📫 How to reach me </p>
+<p>  ✉️ Email: ahmed_samir3@outlook.com
+<p align="center">
+    &emsp;
+    <a href="https://www.linkedin.com/in/ahmed-samir0/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    &emsp;
+    <a href="https://x.com/ahmedsamir_2">
+         <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" alt="twitter logo"  />
+    </a>
+</p>
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsamir25&theme=gruvbox&show_icons=true&locale=en&layout=compact" alt="ahmedsamir25" />
+</div>
+<h3></h3>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsamir25&theme=gruvbox" alt="ahmedsamir25"/></div>
