@@ -1,6 +1,6 @@
 <h1>Hi</h1>
-<p>- 📫 How to reach me </p>
-<p>  ✉️ Email: ahmed_samir3@outlook.com
+<h4>- 📫 How to reach me </h4>
+<p>  ✉️ Email: contact@ahmed-samir.tech
 <p align="center">
     &emsp;
     <a href="https://www.linkedin.com/in/ahmed-samir0/">
