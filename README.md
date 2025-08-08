@@ -11,7 +11,11 @@
     </a>
 </p>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsamir25&theme=gruvbox&show_icons=true&locale=en&layout=compact" alt="ahmedsamir25" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsamir25&theme=gruvbox&show_icons=true&locale=en&layout=compact" alt="ahmedsamir25" /> -->
+    <br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsamir25&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Ahmed Samir" height="192px"/>
+  <br/>
 </div>
 <h3></h3>
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsamir25&theme=gruvbox" alt="ahmedsamir25"/></div>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsamir25&theme=algolia" alt="Ahmed Samir"/></div>
