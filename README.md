@@ -1,6 +1,6 @@
 <h1>Hi</h1>
 <!-- <h4>- 📫 How to reach me </h4> -->
-<img src="https://c4.wallpaperflare.com/wallpaper/613/663/626/anime-hunter-x-hunter-gon-css-killua-zoldyck-wallpaper-thumb.jpg" height="1200" width="800">
+<img src="https://c4.wallpaperflare.com/wallpaper/613/663/626/anime-hunter-x-hunter-gon-css-killua-zoldyck-wallpaper-thumb.jpg" height="600" width="900">
 <!-- <p align="center">
     &emsp;
     <a href="https://www.linkedin.com/in/ahmed-samir0/">
