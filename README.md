@@ -11,7 +11,7 @@
     </a>
 </p> -->
 
-<p>  ✉️ Email: contact@ahmed-samir.tech </p>
+<p>  ✉️ Email: ahmed_samir3@outlook.com </p>
 <!-- <div align="center"> -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsamir25&theme=gruvbox&show_icons=true&locale=en&layout=compact" alt="ahmedsamir25" /> -->
     <!-- <br/>
